@@ -1,4 +1,4 @@
-# Event-Ticketing-System-C-
+# Event-Ticketing-System-C++
 basic programming with cpp on event ticketing system
 haah i use chatgpt to write a readme.md because i am lazy :]
 # 🎉 PSP Event Management & Lucky Draw System
